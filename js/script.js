@@ -175,7 +175,7 @@ function mousePressed() {
     state = `loading`;
     click.play();
     muzak.loop();
-    setTimeout(playPrinter, 20400);
+    setTimeout(playSounds, 20400);
   }
 }
 
